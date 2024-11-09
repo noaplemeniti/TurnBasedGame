@@ -1,0 +1,14 @@
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\obj\Debug\net8.0\ProjectFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\obj\Debug\net8.0\ProjectFirst.AssemblyInfoInputs.cache
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\obj\Debug\net8.0\ProjectFirst.AssemblyInfo.cs
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\obj\Debug\net8.0\ProjectFirst.csproj.CoreCompileInputs.cache
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\bin\Debug\net8.0\ProjectFirst.exe
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\bin\Debug\net8.0\ProjectFirst.deps.json
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\bin\Debug\net8.0\ProjectFirst.runtimeconfig.json
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\bin\Debug\net8.0\ProjectFirst.dll
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\bin\Debug\net8.0\ProjectFirst.pdb
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\obj\Debug\net8.0\ProjectFirst.dll
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\obj\Debug\net8.0\refint\ProjectFirst.dll
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\obj\Debug\net8.0\ProjectFirst.pdb
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\obj\Debug\net8.0\ProjectFirst.genruntimeconfig.cache
+C:\Users\Noa\source\repos\ProjectFirst\ProjectFirst\obj\Debug\net8.0\ref\ProjectFirst.dll
